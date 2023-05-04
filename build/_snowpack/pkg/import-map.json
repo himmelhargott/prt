@@ -1,0 +1,33 @@
+{
+  "imports": {
+    "@noble/hashes/_assert": "./@noble/hashes/_assert.js",
+    "@noble/hashes/hmac": "./@noble/hashes/hmac.js",
+    "@noble/hashes/pbkdf2": "./@noble/hashes/pbkdf2.js",
+    "@noble/hashes/ripemd160": "./@noble/hashes/ripemd160.js",
+    "@noble/hashes/sha256": "./@noble/hashes/sha256.js",
+    "@noble/hashes/sha512": "./@noble/hashes/sha512.js",
+    "@noble/hashes/utils": "./@noble/hashes/utils.js",
+    "@noble/secp256k1": "./@noble/secp256k1.js",
+    "@scure/base": "./@scure/base.js",
+    "@scure/bip39": "./@scure/bip39.js",
+    "@scure/bip39/wordlists/english": "./@scure/bip39/wordlists/english.js",
+    "@stacks/auth": "./@stacks/auth.js",
+    "@stacks/common": "./@stacks/common.js",
+    "@stacks/connect": "./@stacks/connect.js",
+    "@stacks/connect-ui/loader": "./@stacks/connect-ui/loader.js",
+    "@stacks/encryption": "./@stacks/encryption.js",
+    "@stacks/network": "./@stacks/network.js",
+    "@stacks/profile": "./@stacks/profile.js",
+    "@stacks/transactions": "./@stacks/transactions.js",
+    "async": "./async.js",
+    "base-x": "./base-x.js",
+    "base64-js": "./base64-js.js",
+    "bs58": "./bs58.js",
+    "c32check": "./c32check.js",
+    "cross-fetch/polyfill": "./cross-fetch/polyfill.js",
+    "jsontokens": "./jsontokens.js",
+    "lodash.clonedeep": "./lodash.clonedeep.js",
+    "schema-inspector": "./schema-inspector.js",
+    "zone-file": "./zone-file.js"
+  }
+}
