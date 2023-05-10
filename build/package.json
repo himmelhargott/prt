@@ -1,1 +1,0 @@
-{"scripts":{"start":"snowpack dev","build":"snowpack build"},"dependencies":{"@stacks/connect":"^7.2.1"},"devDependencies":{"buffer":"^5.7.1","process":"^0.11.10","regenerator-runtime":"^0.13.11","snowpack":"^3.2.2"}}

@@ -135,9 +135,9 @@ export function newProjectComponent() {
       blockHeight = res;
     });
     //console.log(`blockHeight: ${blockHeight}`);
-    const start = blockHeight + BigInt(3);
+    const start = blockHeight + BigInt(2);
     //console.log(`startBlock: ${start}`);
-    const end = start + BigInt(ipDuration.value); //* 144));    ipDuration in days + currently ca. 144 blocks per day
+    const end = start + (BigInt(ipDuration.value)* 144);    //ipDuration in days + currently ca. 144 blocks per day
     /*console.log("ipName "+ ipName.value);
         console.log("ipDescr "+ ipDescr.value);
         console.log("ipLink "+ ipLink.value);
