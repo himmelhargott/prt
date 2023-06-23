@@ -170,11 +170,11 @@ export function createStartPage() {
     updateProjectList();
     globalsObject.periodics.push({
       name: "idUpdateProjectList",
-      id: setInterval(updateProjectList, 20000),
+      id: setInterval(updateProjectList, 300000),
     });
     globalsObject.periodics.push({
       name: "idCheckTxData",
-      id: setInterval(checkTxData, 5000),
+      id: setInterval(checkTxData, 60000),
     });
     btn.remove();
     connectWallet(createPageConnected);
@@ -209,7 +209,7 @@ export function createPageConnected() {
   if (globalsObject.state === "loggedIn") {
     globalsObject.periodics.push({
       name: "idUpdateBalance",
-      id: setInterval(updateBalance, 10000),
+      id: setInterval(updateBalance, 30000),
     });
   }
 
@@ -217,7 +217,7 @@ export function createPageConnected() {
   if (globalsObject.state === "loggedIn") {
     globalsObject.periodics.push({
       name: "idrenderProjectList",
-      id: setInterval(renderProjectList, 10000),
+      id: setInterval(renderProjectList, 300000),
     });
   }
 

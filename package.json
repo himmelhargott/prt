@@ -1,1 +1,1 @@
-{"scripts":{"start":"snowpack dev","build":"parcel build index.html"},"dependencies":{"@stacks/connect":"^7.2.1","parcel":"^2.8.3"},"devDependencies":{"buffer":"^5.7.1","process":"^0.11.10","regenerator-runtime":"^0.13.11"}}
+{"scripts":{"start":"parcel index.html","build":"parcel build index.html"},"dependencies":{"@stacks/connect":"^7.2.1","parcel":"^2.8.3"},"devDependencies":{"buffer":"^5.7.1","process":"^0.11.10","regenerator-runtime":"^0.13.11"}}
