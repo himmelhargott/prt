@@ -133,7 +133,7 @@ submitBtn.addEventListener("click", async (event) => {
       blockHeight = res;
     });
     //console.log(`blockHeight: ${blockHeight}`);
-    const start = blockHeight + BigInt(2);
+    const start = blockHeight + BigInt(3);
     //console.log(`startBlock: ${start}`);
     const end = start + (BigInt(ipDuration.value* 144));    //ipDuration in days + currently ca. 144 blocks per day
     /*console.log("ipName "+ ipName.value);
