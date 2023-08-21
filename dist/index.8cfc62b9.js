@@ -691,9 +691,15 @@ function createStartPage() {
             }
         }
     }
+    //container for the whole app:
+    const appDiv = document.createElement("div");
+    appDiv.id = "appDiv";
+    document.body.appendChild(appDiv);
+    //add navigation div:
     const navDiv = document.createElement("div");
     navDiv.id = "navDiv";
-    document.body.appendChild(navDiv);
+    appDiv.appendChild(navDiv);
+    //add connect button to nav div
     const btn = document.createElement("button");
     btn.id = "connectBtn";
     btn.textContent = "Connect";
@@ -14808,8 +14814,8 @@ module.exports = require("cf332dc0fa2076e1");
 })();
 
 },{"8a426ae56d2c1ab9":"4mzNG"}],"4mzNG":[function(require,module,exports) {
-var global = arguments[3];
 var process = require("8d411e07d183bde9");
+var global = arguments[3];
 (function(global, factory) {
     factory(exports);
 })(this, function(exports1) {
@@ -21643,7 +21649,6 @@ function newProjectComponent() {
     const ipDuration = form.elements[4];
     const submitBtn = form.elements[5];
     const homeBtn = form.elements[6];
-    const btnNP = document.getElementById("newProjectBtn");
     submitBtn.addEventListener("click", async (event1)=>{
         event1.preventDefault();
         let blockHeight = 0;
@@ -21651,7 +21656,7 @@ function newProjectComponent() {
             blockHeight = res;
         });
         //console.log(`blockHeight: ${blockHeight}`);
-        const start = blockHeight + BigInt(2);
+        const start = blockHeight + BigInt(3);
         //console.log(`startBlock: ${start}`);
         const end = start + BigInt(ipDuration.value * 144); //ipDuration in days + currently ca. 144 blocks per day
         /*console.log("ipName "+ ipName.value);
@@ -21989,8 +21994,9 @@ async function renderProjectList() {
 async function createListHeader() {
     //create list header
     const listDiv = document.createElement("div");
+    const appDiv = document.getElementById("appDiv");
     listDiv.id = "listHeader";
-    document.body.appendChild(listDiv);
+    appDiv.appendChild(listDiv);
     //add newProject button
     const navDiv = document.getElementById("navDiv");
     const btnNP = document.createElement("button");

@@ -1,4 +1,4 @@
-8753
+8747
 77C:\Users\Stefan\Desktop\ParcelDev\node_modules\source-map-support\register.js133277516716736136 0
 54C:\Users\Stefan\Desktop\ParcelDev\node_modules\globals133277516718716147 1
 58C:\Users\Stefan\Desktop\ParcelDev\node_modules\ansi-styles133277516717516105 1
@@ -49,11 +49,11 @@
 100C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\optimizer-svgo\node_modules\svgo\package.json133277516733256115 0
 120C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Dimension.js133277516728106112 0
 62C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\clone.js133258653287188961 0
-44C:\Users\Stefan\Desktop\ParcelDev\index.html133277557061909006 0
+44C:\Users\Stefan\Desktop\ParcelDev\index.html133368139498808490 0
 87C:\Users\Stefan\Desktop\ParcelDev\node_modules\csso\node_modules\css-tree\cjs\generator133277516734826124 1
 106C:\Users\Stefan\Desktop\ParcelDev\node_modules\css-select\node_modules\dom-serializer\lib\esm\package.json133277516719226107 0
 66C:\Users\Stefan\Desktop\ParcelDev\node_modules\react-error-overlay133277516720116114 1
-47C:\Users\Stefan\Desktop\ParcelDev\Components.js133285246480159112 0
+47C:\Users\Stefan\Desktop\ParcelDev\Components.js133371103895022075 0
 68C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\_mapToArray.js133258653285138970 0
 78C:\Users\Stefan\Desktop\ParcelDev\node_modules\caniuse-lite\data\regions\ML.js133277516744086128 0
 70C:\Users\Stefan\Desktop\ParcelDev\node_modules\css-select\lib\index.js133277516722326105 0
@@ -70,10 +70,10 @@
 86C:\Users\Stefan\Desktop\ParcelDev\node_modules\caniuse-lite\data\features\dommatrix.js133277516739716097 0
 63C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\invert.js133258653292968962 0
 59C:\Users\Stefan\Desktop\ParcelDev\node_modules\posthtml\lib133277516716326141 1
-50C:\Users\Stefan\Desktop\ParcelDev\ContractCalls.js133272643587556049 0
+50C:\Users\Stefan\Desktop\ParcelDev\ContractCalls.js133285256556268810 0
 74C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\_unescapeHtmlChar.js133258653286158968 0
 102C:\Users\Stefan\Desktop\ParcelDev\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133277516730676113 0
-38C:\Users\Stefan\Desktop\ParcelDev\dist133285249357605939 1
+38C:\Users\Stefan\Desktop\ParcelDev\dist133371105235871475 1
 72C:\Users\Stefan\Desktop\ParcelDev\node_modules\lines-and-columns\LICENSE133274365862346161 0
 78C:\Users\Stefan\Desktop\ParcelDev\node_modules\source-map\lib\binary-search.js133277516719946115 0
 78C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\workers\src\Profiler.js133277516725006104 0
@@ -81,7 +81,7 @@
 72C:\Users\Stefan\Desktop\ParcelDev\node_modules\posthtml-render\readme.md133277516718206110 0
 97C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\transformer-babel\src\remapAstLocations.js133277516722466122 0
 104C:\Users\Stefan\Desktop\ParcelDev\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js133277516747956124 0
-42C:\Users\Stefan\Desktop\ParcelDev\dist.zip133285246836443901 0
+42C:\Users\Stefan\Desktop\ParcelDev\dist.zip133368150341183778 0
 46C:\Users\Stefan\Desktop\ParcelDev\node_modules133277516760006094 1
 87C:\Users\Stefan\Desktop\ParcelDev\node_modules\csso\node_modules\css-tree\lib\generator133277516738886117 1
 51C:\Users\Stefan\Desktop\ParcelDev\node_modules\@gar133277516757706105 1
@@ -125,7 +125,7 @@
 74C:\Users\Stefan\Desktop\ParcelDev\node_modules\@types\node\ts4.8\path.d.ts133272255876249985 0
 50C:\Users\Stefan\Desktop\ParcelDev\utils\address.ts133268778800000000 0
 78C:\Users\Stefan\Desktop\ParcelDev\node_modules\caniuse-lite\data\regions\GD.js133277516740636110 0
-43C:\Users\Stefan\Desktop\ParcelDev\script.js133281978054352584 0
+43C:\Users\Stefan\Desktop\ParcelDev\script.js133371105234821523 0
 84C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\transformer-babel\src\flow.js133277516721526108 0
 68C:\Users\Stefan\Desktop\ParcelDev\node_modules\terser\tools\exit.cjs133277516717896111 0
 108C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js133277516716856114 0
@@ -181,6 +181,7 @@
 70C:\Users\Stefan\Desktop\ParcelDev\node_modules\node-fetch\package.json133258653275378980 0
 51C:\Users\Stefan\Desktop\ParcelDev\utils\checksum.ts133268764560000000 0
 70C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\fp\conformsTo.js133258653287898971 0
+56C:\Users\Stefan\Desktop\ParcelDev\dist\index.6630c605.js133368150021141024 0
 69C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\fp\unzipWith.js133258653298538954 0
 70C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\encryption\dist133272255880120012 1
 53C:\Users\Stefan\Desktop\ParcelDev\node_modules\.cache133272635123892840 1
@@ -204,7 +205,6 @@
 61C:\Users\Stefan\Desktop\ParcelDev\node_modules\@types\node\fs133272255872369994 1
 98C:\Users\Stefan\Desktop\ParcelDev\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1133277516723496106 0
 77C:\Users\Stefan\Desktop\ParcelDev\node_modules\postcss-value-parser\README.md133274365871206172 0
-56C:\Users\Stefan\Desktop\ParcelDev\dist\index.1978bc69.js133277517066285130 0
 60C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\ary.js133258653286468961 0
 67C:\Users\Stefan\Desktop\ParcelDev\node_modules\browserslist\LICENSE133277516715066102 0
 72C:\Users\Stefan\Desktop\ParcelDev\node_modules\csso\lib\clean\Comment.js133277516730806113 0
@@ -2623,7 +2623,7 @@
 71C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\differenceWith.js133258653289738968 0
 67C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\_createSet.js133258653282808962 0
 73C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\fp\isArrayBuffer.js133258653293138959 0
-62C:\Users\Stefan\Desktop\ParcelDev\dist\core-js.72cba9dc.js.map133281939451277980 0
+62C:\Users\Stefan\Desktop\ParcelDev\dist\core-js.72cba9dc.js.map133368150021251071 0
 63C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\divide.js133258653289828974 0
 87C:\Users\Stefan\Desktop\ParcelDev\node_modules\caniuse-lite\data\features\decorators.js133277516739446110 0
 64C:\Users\Stefan\Desktop\ParcelDev\node_modules\async\doDuring.js133258653278208961 0
@@ -3268,7 +3268,7 @@
 70C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\_baseProperty.js133258653280698975 0
 72C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\_basePropertyOf.js133258653280778980 0
 85C:\Users\Stefan\Desktop\ParcelDev\node_modules\css-tree\lib\generator\token-before.js133277516738996115 0
-49C:\Users\Stefan\Desktop\ParcelDev\dist\index.html133285249357125992 0
+49C:\Users\Stefan\Desktop\ParcelDev\dist\index.html133371102897005698 0
 68C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\_baseRepeat.js133258653281018979 0
 68C:\Users\Stefan\Desktop\ParcelDev\node_modules\lodash\_getAllKeys.js133258653283058950 0
 96C:\Users\Stefan\Desktop\ParcelDev\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest4.c133277516732256114 0
@@ -4213,7 +4213,7 @@
 70C:\Users\Stefan\Desktop\ParcelDev\node_modules\js-yaml\dist\js-yaml.js133277516722466122 0
 85C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\transactions\dist\signature.js133272255874940012 0
 74C:\Users\Stefan\Desktop\ParcelDev\node_modules\js-yaml\dist\js-yaml.min.js133277516722836098 0
-74C:\Users\Stefan\Desktop\ParcelDev\dist\connect-modal.entry.3c912ed2.js.map133281939451287989 0
+74C:\Users\Stefan\Desktop\ParcelDev\dist\connect-modal.entry.3c912ed2.js.map133368150021251071 0
 91C:\Users\Stefan\Desktop\ParcelDev\node_modules\@babel\highlight\node_modules\chalk\index.js133277516715856105 0
 69C:\Users\Stefan\Desktop\ParcelDev\node_modules\js-yaml\bin\js-yaml.js133277516721756110 0
 99C:\Users\Stefan\Desktop\ParcelDev\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Value.cjs133277516735446124 0
@@ -4948,7 +4948,7 @@
 100C:\Users\Stefan\Desktop\ParcelDev\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Number.cjs133277516733046109 0
 80C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\workers\src\childState.js133277516720306113 0
 102C:\Users\Stefan\Desktop\ParcelDev\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Operator.cjs133277516733206116 0
-58C:\Users\Stefan\Desktop\ParcelDev\dist\core-js.72cba9dc.js133281939451037972 0
+58C:\Users\Stefan\Desktop\ParcelDev\dist\core-js.72cba9dc.js133368150021141024 0
 104C:\Users\Stefan\Desktop\ParcelDev\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Percentage.cjs133277516733636107 0
 101C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\transactions\dist\esm\postcondition-types.d.ts133272255881209996 0
 78C:\Users\Stefan\Desktop\ParcelDev\node_modules\caniuse-lite\data\regions\NE.js133277516744556122 0
@@ -5275,7 +5275,7 @@
 116C:\Users\Stefan\Desktop\ParcelDev\node_modules\.cache\snowpack\development\cross-fetch@3.1.5\cross-fetch\polyfill.js133272635170147616 0
 71C:\Users\Stefan\Desktop\ParcelDev\node_modules\css-tree\cjs\version.cjs133277516735996123 0
 66C:\Users\Stefan\Desktop\ParcelDev\node_modules\css-tree\cjs\walker133277516732306116 1
-70C:\Users\Stefan\Desktop\ParcelDev\dist\connect-modal.entry.3c912ed2.js133281939451037972 0
+70C:\Users\Stefan\Desktop\ParcelDev\dist\connect-modal.entry.3c912ed2.js133368150021141024 0
 69C:\Users\Stefan\Desktop\ParcelDev\node_modules\cross-fetch\index.d.ts133258653276318963 0
 77C:\Users\Stefan\Desktop\ParcelDev\node_modules\css-tree\cjs\walker\create.cjs133277516724776120 0
 76C:\Users\Stefan\Desktop\ParcelDev\node_modules\css-tree\cjs\walker\index.cjs133277516732326106 0
@@ -6662,7 +6662,7 @@
 95C:\Users\Stefan\Desktop\ParcelDev\node_modules\@swc\helpers\src\_object_destructuring_empty.mjs133277516736696116 0
 88C:\Users\Stefan\Desktop\ParcelDev\node_modules\@swc\helpers\src\_object_spread_props.mjs133277516736746103 0
 94C:\Users\Stefan\Desktop\ParcelDev\node_modules\@swc\helpers\src\_object_without_properties.mjs133277516736766114 0
-70C:\Users\Stefan\Desktop\ParcelDev\dist\connect-modal.entry.4aa47020.js133285249357025942 0
+70C:\Users\Stefan\Desktop\ParcelDev\dist\connect-modal.entry.4aa47020.js133371102895395672 0
 100C:\Users\Stefan\Desktop\ParcelDev\node_modules\@swc\helpers\src\_object_without_properties_loose.mjs133277516736786107 0
 84C:\Users\Stefan\Desktop\ParcelDev\node_modules\@swc\helpers\src\_read_only_error.mjs133277516736846101 0
 86C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\transactions\dist\esm\cl.js.map133272255876970013 0
@@ -6922,7 +6922,6 @@
 69C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\config-default133277516717656110 1
 102C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stencil\core\compiler\lib.es2020.symbol.wellknown.d.ts133258653288848997 0
 106C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common133277516735736109 1
-56C:\Users\Stefan\Desktop\ParcelDev\dist\index.7a23546c.js133285246734981386 0
 93C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stencil\core\compiler\lib.es2021.promise.d.ts133258653289008970 0
 92C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stencil\core\compiler\lib.es2021.string.d.ts133258653289058979 0
 80C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\common\dist\esm\logger.js133272255875840015 0
@@ -6973,7 +6972,6 @@
 83C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\transactions\src\builders.ts133272255879850008 0
 79C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\transactions\src\clarity133272255881640013 1
 76C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\types\lib\unsafe.d.ts133277516719896114 0
-60C:\Users\Stefan\Desktop\ParcelDev\dist\index.1978bc69.js.map133277517066354938 0
 81C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\transactions\src\errors.ts133272255880569998 0
 80C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\transactions\src\index.ts133272255880699994 0
 79C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\transactions\src\keys.ts133272255880800003 0
@@ -7332,7 +7330,7 @@
 92C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\connect-ui\dist\cjs\connect-ui.cjs.js133272255881290013 0
 70C:\Users\Stefan\Desktop\ParcelDev\node_modules\@noble\hashes\README.md133258653279238956 0
 92C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\connect-ui\dist\cjs\index-862ed518.js133272255881660005 0
-54C:\Users\Stefan\Desktop\ParcelDev\dist\dom.0f89fc8e.js133281939451037972 0
+54C:\Users\Stefan\Desktop\ParcelDev\dist\dom.0f89fc8e.js133368150021141024 0
 88C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\connect-ui\dist\cjs\loader.cjs.js133272255881909991 0
 72C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\connect\README.md133272255883480000 0
 83C:\Users\Stefan\Desktop\ParcelDev\node_modules\@stacks\connect\dist\index.global.js133272255879879995 0
@@ -8282,7 +8280,7 @@
 65C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\fs\LICENSE133277516715126112 0
 61C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\fs\src133277516721076111 1
 69C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\fs\src\find.js133277516716876117 0
-56C:\Users\Stefan\Desktop\ParcelDev\dist\index.8cfc62b9.js133285249357535927 0
+56C:\Users\Stefan\Desktop\ParcelDev\dist\index.8cfc62b9.js133371105235821652 0
 71C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\fs\src\NodeFS.js133277516720646106 0
 70C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\fs\src\types.js133277516721226098 0
 76C:\Users\Stefan\Desktop\ParcelDev\node_modules\@parcel\fs\lib\browser.js.map133277516721906111 0
@@ -8738,17 +8736,13 @@
 60C:\Users\Stefan\Desktop\ParcelDev\node_modules\.bin\svgo.cmd133277516749616115 0
 60C:\Users\Stefan\Desktop\ParcelDev\node_modules\.bin\svgo.ps1133277516749616115 0
 62C:\Users\Stefan\Desktop\ParcelDev\node_modules\.bin\terser.cmd133277516749616115 0
-74C:\Users\Stefan\Desktop\ParcelDev\dist\connect-modal.entry.4aa47020.js.map133285249357175957 0
-58C:\Users\Stefan\Desktop\ParcelDev\dist\core-js.024ec213.js133285249357535927 0
-62C:\Users\Stefan\Desktop\ParcelDev\dist\core-js.024ec213.js.map133285249357595937 0
-58C:\Users\Stefan\Desktop\ParcelDev\dist\dom.0f89fc8e.js.map133281939451277980 0
-54C:\Users\Stefan\Desktop\ParcelDev\dist\dom.85169389.js133285249357025942 0
-58C:\Users\Stefan\Desktop\ParcelDev\dist\dom.85169389.js.map133285249357165945 0
-56C:\Users\Stefan\Desktop\ParcelDev\dist\index.3290e33e.js133281978158002106 0
-60C:\Users\Stefan\Desktop\ParcelDev\dist\index.3290e33e.js.map133281978158132118 0
-60C:\Users\Stefan\Desktop\ParcelDev\dist\index.7a23546c.js.map133285246735111332 0
-60C:\Users\Stefan\Desktop\ParcelDev\dist\index.8cfc62b9.js.map133285249357595937 0
-56C:\Users\Stefan\Desktop\ParcelDev\dist\index.d09ca3a0.js133281939451037972 0
-60C:\Users\Stefan\Desktop\ParcelDev\dist\index.d09ca3a0.js.map133281939451277980 0
-59C:\Users\Stefan\Desktop\ParcelDev\dist\my_logo.1ea6d351.png133285249357045941 0
-59C:\Users\Stefan\Desktop\ParcelDev\dist\my_logo.60d773b1.png133277517033284976 0
+74C:\Users\Stefan\Desktop\ParcelDev\dist\connect-modal.entry.4aa47020.js.map133371102895505709 0
+58C:\Users\Stefan\Desktop\ParcelDev\dist\core-js.024ec213.js133371102896745673 0
+62C:\Users\Stefan\Desktop\ParcelDev\dist\core-js.024ec213.js.map133371102896855673 0
+58C:\Users\Stefan\Desktop\ParcelDev\dist\dom.0f89fc8e.js.map133368150021251071 0
+54C:\Users\Stefan\Desktop\ParcelDev\dist\dom.85169389.js133371102895395672 0
+58C:\Users\Stefan\Desktop\ParcelDev\dist\dom.85169389.js.map133371102895505709 0
+60C:\Users\Stefan\Desktop\ParcelDev\dist\index.6630c605.js.map133368150021361163 0
+60C:\Users\Stefan\Desktop\ParcelDev\dist\index.8cfc62b9.js.map133371105235861475 0
+59C:\Users\Stefan\Desktop\ParcelDev\dist\my_logo.1ea6d351.png133371102895405670 0
+59C:\Users\Stefan\Desktop\ParcelDev\dist\my_logo.60d773b1.png133368149998721207 0

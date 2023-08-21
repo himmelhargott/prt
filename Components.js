@@ -562,8 +562,9 @@ export async function renderProjectList() {
 export async function createListHeader() {
   //create list header
   const listDiv = document.createElement("div");
+  const appDiv = document.getElementById("appDiv");
   listDiv.id = "listHeader";
-  document.body.appendChild(listDiv);
+  appDiv.appendChild(listDiv);
 
   //add newProject button
   const navDiv = document.getElementById("navDiv");

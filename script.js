@@ -155,15 +155,22 @@ export function createStartPage() {
       }
     }
   }
+//container for the whole app:
+  const appDiv = document.createElement("div");
+  appDiv.id= "appDiv";
+  document.body.appendChild(appDiv);
 
+//add navigation div:
   const navDiv = document.createElement("div");
   navDiv.id = "navDiv";
-  document.body.appendChild(navDiv);
-
+  appDiv.appendChild(navDiv);
+//add connect button to nav div
   const btn = document.createElement("button");
   btn.id = "connectBtn";
   btn.textContent = "Connect";
   navDiv.appendChild(btn);
+
+  
 
   const connecting = function () {
     //do periodically in the "background"
@@ -184,7 +191,6 @@ export function createStartPage() {
   };
 
   btn.addEventListener("click", connecting, false);
-
   console.log(globalsObject.network);
 }
 //first time: start page
