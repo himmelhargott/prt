@@ -4,7 +4,7 @@ import { globalsObject, createStartPage } from "./script.js";
 
 export function connectWallet(callback) {
   const appDetails = {
-    name: "ProjectRoundTable", // shown in wallet pop-up
+    name: "TheMetalCrowd", // shown in wallet pop-up
     icon: "./my_logo.png",
   };
 
@@ -13,12 +13,12 @@ export function connectWallet(callback) {
     appDetails,
     onFinish: () => {
       console.log("connected"); // WHEN user confirms pop-up
-            
+
       const userData = userSession.loadUserData();
       //console.log(userData);
       //console.log(`userStxAddress: ${userStxAddress}`);
       //console.log("key: " + userData.appPrivateKey);
-  
+
       globalsObject.userStxAddress = userData.profile.stxAddress.testnet;
       globalsObject.state = "loggedIn";
 
