@@ -155,26 +155,33 @@ export function createStartPage() {
       }
     }
   }
+//container for the whole app:
+  const appDiv = document.createElement("div");
+  appDiv.id= "appDiv";
+  document.body.appendChild(appDiv);
 
+//add navigation div:
   const navDiv = document.createElement("div");
   navDiv.id = "navDiv";
-  document.body.appendChild(navDiv);
-
+  appDiv.appendChild(navDiv);
+//add connect button to nav div
   const btn = document.createElement("button");
   btn.id = "connectBtn";
   btn.textContent = "Connect";
   navDiv.appendChild(btn);
+
+  
 
   const connecting = function () {
     //do periodically in the "background"
     updateProjectList();
     globalsObject.periodics.push({
       name: "idUpdateProjectList",
-      id: setInterval(updateProjectList, 20000),
+      id: setInterval(updateProjectList, 300000),
     });
     globalsObject.periodics.push({
       name: "idCheckTxData",
-      id: setInterval(checkTxData, 5000),
+      id: setInterval(checkTxData, 60000),
     });
     btn.remove();
     connectWallet(createPageConnected);
@@ -184,7 +191,6 @@ export function createStartPage() {
   };
 
   btn.addEventListener("click", connecting, false);
-
   console.log(globalsObject.network);
 }
 //first time: start page
@@ -209,7 +215,7 @@ export function createPageConnected() {
   if (globalsObject.state === "loggedIn") {
     globalsObject.periodics.push({
       name: "idUpdateBalance",
-      id: setInterval(updateBalance, 10000),
+      id: setInterval(updateBalance, 30000),
     });
   }
 
@@ -217,7 +223,7 @@ export function createPageConnected() {
   if (globalsObject.state === "loggedIn") {
     globalsObject.periodics.push({
       name: "idrenderProjectList",
-      id: setInterval(renderProjectList, 10000),
+      id: setInterval(renderProjectList, 300000),
     });
   }
 
